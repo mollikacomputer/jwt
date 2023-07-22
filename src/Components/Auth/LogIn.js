@@ -34,7 +34,8 @@ const LogIn = () => {
               name="name"
             />
           </label>
-          <button className="btn btn-primary"> Submit</button>
+          <button className="btn btn-primary"> Submit button</button>
+          <button className="btn btn-primary"> Submit button 2</button>
         </div>
       </div>
     </div>
